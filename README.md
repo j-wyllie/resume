@@ -138,7 +138,7 @@ Some ideas:
 
 ## License
 
-Format is MIT but all the data is owned by Wilmer Gonzalez. 
+Format is MIT but all the data is owned by Joshua Wyllie. 
 
 ## Acknowledgments
 
